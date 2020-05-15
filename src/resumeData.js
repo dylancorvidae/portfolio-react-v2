@@ -56,31 +56,40 @@ let resumeData = {
   ],
   "work":[
     {
-      "CompanyName":"Some Company",
-      "specialization":"Some specialization",
-      "MonthOfLeaving":"Jan",
-      "YearOfLeaving":"2018",
-      "Achievements":"Some Achievements"
+      "CompanyName":"Portland Bureau of Transportation",
+      "specialization":"Lead Parking Pay Station Technician",
+      "MonthOfStarting":"April",
+      "YearOfStarting":"2017",
+      "MonthOfLeaving":"July",
+      "YearOfLeaving":"2019",
+      "specialization2":"Parking Pay Station Technician",
+      "MonthOfStarting2":"July",
+      "YearOfStarting2":"2011",
+      "MonthOfLeaving2":"April",
+      "YearOfLeaving2":"2017",
+      "Achievements":"Led in the diagnosing and troubleshooting of hardware and software malfunctions for solar powered smart parking meters and streetcar ticketing machines, identified best practices, created innovative solutions, documented processes, and made procedural improvements. Communicated, disseminated, and trained others on these diagnostics and repairs. QA/QC new programming."
     },
     {
-      "CompanyName":"Some Company",
-      "specialization":"Some specialization",
-      "MonthOfLeaving":"Jan",
-      "YearOfLeaving":"2018",
-      "Achievements":"Some Achievements"
+      "CompanyName":"Portland Water Bureau",
+      "specialization":"Surveying Aide II & GIS Technician",
+      "MonthOfStarting":"April",
+      "YearOfStarting":"2006",
+      "MonthOfLeaving":"July",
+      "YearOfLeaving":"2011",
+      "Achievements":"Built, maintained, and managed the Survey property database. Created shapefiles and attribute data for the Water Bureau's ArcMap resources and QA/QC of the GIS group's inputs. Performed terrestrial and GPS surveys for topographical mapping, dam & road subsidence monitoring, construction staking for infrastructure projects, & precise elevation data collection for SCADA operations of elevated tanks."
     }
   ],
   "skillsDescription":"Your skills here",
   "skills":[
-    {
-      "skillname":"HTML5"
-    },
-    {
-      "skillname":"CSS"
-    },
-    {
-      "skillname":"Reactjs"
-    }
+    {"skillname":"Responsive web design"},
+    {"skillname":"UX Design"},
+    {"skillname":"UI Design"},
+    {"skillname":"A11Y"},
+    {"skillname":"Communication"},
+    {"skillname":"HTML5"},
+    {"skillname":"CSS"},
+    {"skillname":"Javascript"},
+    {"skillname":"Reactjs"},
   ],
   "portfolio":[
     {
