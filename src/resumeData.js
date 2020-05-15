@@ -90,6 +90,8 @@ let resumeData = {
     {"skillname":"CSS"},
     {"skillname":"Javascript"},
     {"skillname":"Reactjs"},
+    {"skillname":"Duo Trapeze"},
+    {"skillname":"Handbalancing"}
   ],
   "portfolio":[
     {

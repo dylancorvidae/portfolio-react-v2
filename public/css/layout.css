@@ -335,30 +335,30 @@ ul#nav li.current a { color: rgb(255, 77, 228); }
 
 .ux {
    width: 35%;
-   animation: css 2s ease;
-   -moz-animation: css 2s ease;
-   -webkit-animation: css 2s ease;
+   animation: ux 2s ease;
+   -moz-animation: ux 2s ease;
+   -webkit-animation: ux 2s ease;
 }
 
 .ui {
    width: 35%;
-   animation: css 2s ease;
-   -moz-animation: css 2s ease;
-   -webkit-animation: css 2s ease;
+   animation: ux 2s ease;
+   -moz-animation: ux 2s ease;
+   -webkit-animation: ux 2s ease;
 }
 
 .a11y {
    width: 60%;
-   animation: css 2s ease;
-   -moz-animation: css 2s ease;
-   -webkit-animation: css 2s ease;
+   animation: a11y 2s ease;
+   -moz-animation: a11y 2s ease;
+   -webkit-animation: a11y 2s ease;
 }
 
 .communication {
    width: 90%;
-   animation: css 2s ease;
-   -moz-animation: css 2s ease;
-   -webkit-animation: css 2s ease;
+   animation: communication 2s ease;
+   -moz-animation: communication 2s ease;
+   -webkit-animation: communication 2s ease;
 }
 
 .html5 {
@@ -377,9 +377,9 @@ ul#nav li.current a { color: rgb(255, 77, 228); }
 
 .javascript {
    width: 15%;
-   animation: css 2s ease;
-   -moz-animation: css 2s ease;
-   -webkit-animation: css 2s ease;
+   animation: reactjs 2s ease;
+   -moz-animation: reactjs 2s ease;
+   -webkit-animation: reactjs 2s ease;
 }
 
 .reactjs {
@@ -388,6 +388,21 @@ ul#nav li.current a { color: rgb(255, 77, 228); }
    -moz-animation: reactjs 2s ease;
    -webkit-animation: reactjs 2s ease;
 }
+
+.duo {
+   width: 75%;
+   animation: duo 2s ease;
+   -moz-animation: duo 2s ease;
+   -webkit-animation: duo 2s ease;
+}
+
+.handbalancing {
+   width: 40%;
+   animation: handbalancing 2s ease;
+   -moz-animation: handbalancing 2s ease;
+   -webkit-animation: handbalancing 2s ease;
+}
+
 
 //Animations for skills
 
@@ -402,6 +417,45 @@ ul#nav li.current a { color: rgb(255, 77, 228); }
 @-webkit-keyframes responsive {
    0%   { width: 0px;  }
    100% { width: 80%;  }
+}
+
+@keyframes ux {
+   0%   { width: 0px;  }
+   100% { width: 35%;  }
+}
+@-moz-keyframes ux {
+   0%   { width: 0px;  }
+   100% { width: 35%;  }
+}
+@-webkit-keyframes ux {
+   0%   { width: 0px;  }
+   100% { width: 35%;  }
+}
+
+@keyframes a11y {
+   0%   { width: 0px;  }
+   100% { width: 60%;  }
+}
+@-moz-keyframes a11y {
+   0%   { width: 0px;  }
+   100% { width: 60%;  }
+}
+@-webkit-keyframes a11y {
+   0%   { width: 0px;  }
+   100% { width: 60%;  }
+}
+
+@keyframes communication {
+   0%   { width: 0px;  }
+   100% { width: 90%;  }
+}
+@-moz-keyframes communication {
+   0%   { width: 0px;  }
+   100% { width: 90%;  }
+}
+@-webkit-keyframes communication {
+   0%   { width: 0px;  }
+   100% { width: 90%;  }
 }
 
 @keyframes html5 {
@@ -454,6 +508,32 @@ ul#nav li.current a { color: rgb(255, 77, 228); }
 @-webkit-keyframes reactjs {
    0%   { width: 0px;  }
    100% { width: 15%;  }
+}
+
+@keyframes duo {
+   0%   { width: 0px;  }
+   100% { width: 75%;  }
+}
+@-moz-keyframes duo {
+   0%   { width: 0px;  }
+   100% { width: 75%;  }
+}
+@-webkit-keyframes duo {
+   0%   { width: 0px;  }
+   100% { width: 75%;  }
+}
+
+@keyframes handbalancing {
+   0%   { width: 0px;  }
+   100% { width: 40%;  }
+}
+@-moz-keyframes reactjs {
+   0%   { width: 0px;  }
+   100% { width: 40%;  }
+}
+@-webkit-keyframes reactjs {
+   0%   { width: 0px;  }
+   100% { width: 40%;  }
 }
 
 /* ------------------------------------------------------------------ */
