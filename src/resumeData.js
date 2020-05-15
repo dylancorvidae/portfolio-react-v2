@@ -4,7 +4,7 @@ let resumeData = {
   "role": "Front-End Developer & Circus Performer",
   "linkedinId":"DylanCorvidae",
   "skypeid": "Your skypeid",
-  "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+  "roleDescription": "I have a passion for great user experiences and excellent user interfaces that help the user do what they need to do efficiently, and effectively, while engaging them and leaving them feeling positive about their experience. In addition, I pay great attention to the accessibility of my projects so that all feel welcomed and supported.",
   "socialLinks":[
       {
         "name":"linkedin",
@@ -27,8 +27,8 @@ let resumeData = {
         "className":"fa fa-instagram"
       }
     ],
-  "aboutme":"I have finished my B.E. in Computer Science and have been working in industry for past few years.",
-  "address":"India",
+  "aboutme":"Most of my career has been in the public sector, but last year I executed a career pivot and entered the world of software development. I completed Alchemy Code Lab's 6-month full-stack JavaScript program in December 2019. In that program I worked on expanding my skill-set to become a web developer that utilizes ES6 Javascript, CSS3, HTML5, React, component architecture, and builds apps that meet accessibility standards (WCAG 2.1). While there, I found myself drawn more to the Front-End side of development because I love doing CSS and UX/UI work so much. I love the process of creating design plans and wireframes with other creatives and then turning those into interactive and engaging onscreen applications. However, I am also familiar with back-end technologies such as RESTful APIs, Node.js & npm, SQL and NoSQL databases. During project sprints, in addition to designing UX flows, coding UI components, CSS, and product testing, I often found myself fulfilling the role of product owner/scrum master. I wrote the supporting documentation that we used while building our apps, served as conflict resolution lead, kept people directed toward the tasks at hand while making sure we were meeting our benchmark goals, and checked in with people to ensure that they were doing work that they felt engaged and fulfilled in. Since graduating from that program I have continued to focus on developing my skills in responsive web design, focusing on the front-end experience, UI/UX design, and accessibility.",
+  "address":"Portland, Oregon",
   "website":"https://www.codeclassifiers.com",
   "education":[
     {
@@ -76,24 +76,28 @@ let resumeData = {
   ],
   "portfolio":[
     {
-      "name":"project1",
+      "name":"Basic Ass Maze Game",
       "description":"mobileapp",
-      "imgurl":"images/portfolio/phone.jpg"
+      "imgurl":"images/portfolio/basicass.jpg",
+      "alt": ""
     },
     {
       "name":"project2",
       "description":"mobileapp",
-      "imgurl":"images/portfolio/project.jpg"
+      "imgurl":"images/portfolio/project.jpg",
+      "alt": ""
     },
     {
       "name":"project3",
       "description":"mobileapp",
-      "imgurl":"images/portfolio/project2.png"
+      "imgurl":"images/portfolio/project2.png",
+      "alt": ""
     },
     {
       "name":"project4",
       "description":"mobileapp",
-      "imgurl":"images/portfolio/phone.jpg"
+      "imgurl":"images/portfolio/phone.jpg",
+      "alt": ""
     }
   ],
   "testimonials":[
