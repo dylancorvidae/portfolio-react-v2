@@ -29,21 +29,29 @@ let resumeData = {
     ],
   "aboutme":"Most of my career has been in the public sector, but last year I executed a career pivot and entered the world of software development. I completed Alchemy Code Lab's 6-month full-stack JavaScript program in December 2019. In that program I worked on expanding my skill-set to become a web developer that utilizes ES6 Javascript, CSS3, HTML5, React, component architecture, and builds apps that meet accessibility standards (WCAG 2.1). While there, I found myself drawn more to the Front-End side of development because I love doing CSS and UX/UI work so much. I love the process of creating design plans and wireframes with other creatives and then turning those into interactive and engaging onscreen applications. However, I am also familiar with back-end technologies such as RESTful APIs, Node.js & npm, SQL and NoSQL databases. During project sprints, in addition to designing UX flows, coding UI components, CSS, and product testing, I often found myself fulfilling the role of product owner/scrum master. I wrote the supporting documentation that we used while building our apps, served as conflict resolution lead, kept people directed toward the tasks at hand while making sure we were meeting our benchmark goals, and checked in with people to ensure that they were doing work that they felt engaged and fulfilled in. Since graduating from that program I have continued to focus on developing my skills in responsive web design, focusing on the front-end experience, UI/UX design, and accessibility.",
   "address":"Portland, Oregon",
-  "website":"https://www.codeclassifiers.com",
+  "website":"https://www.dylancorvidae.com",
   "education":[
     {
-      "UniversityName":"Mumbai University",
-      "specialization":"Some specialization",
-      "MonthOfPassing":"Jan",
-      "YearOfPassing":"2018",
-      "Achievements":"Some Achievements"
+      "UniversityName":"Alchemy Code Lab",
+      "specialization":"Full-Stack Javascript Program",
+      "MonthOfPassing":"December",
+      "YearOfPassing":"2019",
+      "Achievements":"Rigorous 800+ hr training in a 3 part program focused on: full-stack development, writing clean readable code in ES6 JS, HTML5, CSS3; utilizing tools such as Git, CLI, VSCode; libraries & frameworks like React, Redux, Express; databases in PostgreSQL & MongoDB; And web development methods such as, SPA App Dev, Rest APIs, agile methodologies, and team building through pair and mob programming."
     },
     {
-      "UniversityName":"Some University",
-      "specialization":"Some specialization",
-      "MonthOfPassing":"Jan",
-      "YearOfPassing":"2018",
-      "Achievements":"Some Achievements"
+      "UniversityName":"Portland State University",
+      "specialization":"Geographic Information Systems Certificate (GISc), cum laude",
+      "MonthOfPassing":"June",
+      "YearOfPassing":"2007",
+      "Achievements":"Attended graduate school while working full-time."
+    },
+    {
+      "UniversityName":"Portland State University",
+      "specialization":"Bachelor of Science, cum laude",
+      "MonthOfPassing":"June",
+      "YearOfPassing":"2005",
+      "Achievements":"Completed Majors: Geography, Science, Social Science, and Liberal Studies",
+      "Achievements2":"Completed Minors: Space and Planetary Sciences, and Geology"
     }
   ],
   "work":[
