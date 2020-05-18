@@ -96,33 +96,33 @@ let resumeData = {
   "portfolio":[
     {
       "name":"Basic Ass Maze Game",
-      "description":"mobileapp",
+      "description":"A SPA multiplayer game built using Socket.io, React, P5.js, Webpack, Enzyme, Jest, and PostCSS that allows players to invite up to eight friends to a private lobby and race against each other to see who can solve a randomly generated maze the fastest. Built by a team of 4 in 6 days.",
       "imgurl":"images/portfolio/basicass.jpg",
-      "alt": ""
+      "alt": "screenshot of player selection lobby"
     },
     {
-      "name":"project2",
-      "description":"mobileapp",
-      "imgurl":"images/portfolio/project.jpg",
-      "alt": ""
+      "name":"BASHful: A Terminal Based Dating Simulator",
+      "description":"A CLI based date simulation app utilizing Node.js, Express, Inquirer, Mongodb, Mongoose, Bcryptjs, Jsonwebtoken, Superagent, Morgan, Jest, Chalk-pipe, and more. Built by a team of 5 in 5 days.",
+      "imgurl":"images/portfolio/bash.png",
+      "alt": "BASHful logo"
     },
     {
       "name":"project3",
-      "description":"mobileapp",
-      "imgurl":"images/portfolio/project2.png",
-      "alt": ""
+      "description":"An app that parodies a Myers-Briggs test written from the perspective of Rick Sanchez utilizing JavaScript component architecture, Node.js, Express, Cors, Jsonwebtoken, Morgan, Superagent, PostgreSQL, Chartjs, and more. Built by a team of 4 in 5 days.",
+      "imgurl":"images/portfolio/sanchezpersonalityexperiment.jpg",
+      "alt": "screenshot of personality assessment intro screen"
     },
     {
       "name":"project4",
-      "description":"mobileapp",
-      "imgurl":"images/portfolio/phone.jpg",
-      "alt": ""
+      "description":"A zany Cee-lo dice game made with vanilla JS, HTML5, and CSS3. Built by a team of 4 in 4 days utilizing mob, pair, and solo programming. We had all been writing code for only 3 weeks at the start of this project.",
+      "imgurl":"images/portfolio/jabbadice.jpg",
+      "alt": "screenshot of boss fight for Jabba Dice"
     }
   ],
   "testimonials":[
     {
-      "description":"This is a sample testimonial",
-      "name":"Some technical guy"
+      "description":"Dylan portrays such a deep connection to their performing partner I can feel the connection between the two performers viscerally.",
+      "name":"Some queer circus person"
     },
     {
       "description":"This is a sample testimonial",
