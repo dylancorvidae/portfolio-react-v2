@@ -107,26 +107,32 @@ let resumeData = {
       "alt": "BASHful logo"
     },
     {
-      "name":"project3",
+      "name":"The Sanchez Personality Experiment",
       "description":"An app that parodies a Myers-Briggs test written from the perspective of Rick Sanchez utilizing JavaScript component architecture, Node.js, Express, Cors, Jsonwebtoken, Morgan, Superagent, PostgreSQL, Chartjs, and more. Built by a team of 4 in 5 days.",
       "imgurl":"images/portfolio/sanchezpersonalityexperiment.jpg",
       "alt": "screenshot of personality assessment intro screen"
     },
     {
-      "name":"project4",
+      "name":"Jabba Dice",
       "description":"A zany Cee-lo dice game made with vanilla JS, HTML5, and CSS3. Built by a team of 4 in 4 days utilizing mob, pair, and solo programming. We had all been writing code for only 3 weeks at the start of this project.",
       "imgurl":"images/portfolio/jabbadice.jpg",
+      "alt": "screenshot of boss fight for Jabba Dice"
+    },
+    {
+      "name":"Load Estimator",
+      "description":"Characteristic Load Estimator for Aerial Acrobatics Rigging Equipment",
+      "imgurl":"images/portfolio/riggingequipment.jpg",
       "alt": "screenshot of boss fight for Jabba Dice"
     }
   ],
   "testimonials":[
     {
-      "description":"Dylan portrays such a deep connection to their performing partner I can feel the connection between the two performers viscerally.",
-      "name":"Some queer circus person"
+      "description":"You two are amazing! I can see and feel the connection between the two of you viscerally!",
+      "name":"says everyone who sees Duo Sadboi perform"
     },
     {
-      "description":"This is a sample testimonial",
-      "name":"Some technical guy"
+      "description":"Reminiscent of a young Harry Houdini.",
+      "name":"Instagram follower"
     }
   ]
 }
