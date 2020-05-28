@@ -1,5 +1,5 @@
 let resumeData = {
-  "imagebaseurl":"http://localhost:3000/",
+  "imagebaseurl":"https://dylancorvidae.github.io/portfolio-react-v2/",
   "name": "Dylan Corvidae",
   "role": "Front-End Developer & Circus Performer",
   "linkedinId":"DylanCorvidae",
@@ -81,48 +81,53 @@ let resumeData = {
   ],
   "skillsDescription":"Your skills here",
   "skills":[
-    {"skillname":"Responsive web design"},
-    {"skillname":"UX Design"},
-    {"skillname":"UI Design"},
     {"skillname":"A11Y"},
     {"skillname":"Communication"},
-    {"skillname":"HTML5"},
     {"skillname":"CSS"},
+    {"skillname":"Duo Trapeze"},
+    {"skillname":"Handbalancing"},
+    {"skillname":"HTML5"},
     {"skillname":"Javascript"},
     {"skillname":"Reactjs"},
-    {"skillname":"Duo Trapeze"},
-    {"skillname":"Handbalancing"}
+    {"skillname":"Responsive Web Design"},
+    {"skillname":"UI Design"},
+    {"skillname":"UX Design"}
   ],
   "portfolio":[
     {
       "name":"Basic Ass Maze Game",
-      "description":"A SPA multiplayer game built using Socket.io, React, P5.js, Webpack, Enzyme, Jest, and PostCSS that allows players to invite up to eight friends to a private lobby and race against each other to see who can solve a randomly generated maze the fastest. Built by a team of 4 in 6 days.",
+      "description":"An SPA that allows 8 players to race against each other to see who can solve a randomly generated maze the fastest. Built by a team of 4 in 6 days.",
       "imgurl":"images/portfolio/basicass.jpg",
-      "alt": "screenshot of player selection lobby"
+      "alt": "Player selection lobby for Maze Race",
+      "url": "https://maze-race.netlify.com/"
     },
     {
       "name":"BASHful: A Terminal Based Dating Simulator",
-      "description":"A CLI based date simulation app utilizing Node.js, Express, Inquirer, Mongodb, Mongoose, Bcryptjs, Jsonwebtoken, Superagent, Morgan, Jest, Chalk-pipe, and more. Built by a team of 5 in 5 days.",
+      "description":"A CLI based dating simulator application. Built by a team of 5 in 5 days.",
       "imgurl":"images/portfolio/bash.png",
-      "alt": "BASHful logo"
+      "alt": "BASHful logo",
+      "url": "https://github.com/Team-Dead-Ant/BASHful"
     },
     {
       "name":"The Sanchez Personality Experiment",
-      "description":"An app that parodies a Myers-Briggs test written from the perspective of Rick Sanchez utilizing JavaScript component architecture, Node.js, Express, Cors, Jsonwebtoken, Morgan, Superagent, PostgreSQL, Chartjs, and more. Built by a team of 4 in 5 days.",
+      "description":"A Rick & Morty Myers-Briggs test written from the perspective of Rick Sanchez. Built by a team of 4 in 5 days.",
       "imgurl":"images/portfolio/sanchezpersonalityexperiment.jpg",
-      "alt": "screenshot of personality assessment intro screen"
+      "alt": "Intro screen for personality assessment",
+      "url": "https://c-137-mbti-quiz-nsfw.herokuapp.com/"
     },
     {
       "name":"Jabba Dice",
       "description":"A zany Cee-lo dice game made with vanilla JS, HTML5, and CSS3. Built by a team of 4 in 4 days utilizing mob, pair, and solo programming. We had all been writing code for only 3 weeks at the start of this project.",
       "imgurl":"images/portfolio/jabbadice.jpg",
-      "alt": "screenshot of boss fight for Jabba Dice"
+      "alt": "Boss fight page for Jabba Dice",
+      "url": "https://team-jabba.github.io/html/coverpage.html"
     },
     {
       "name":"Load Estimator",
       "description":"Characteristic Load Estimator for Aerial Acrobatics Rigging Equipment",
       "imgurl":"images/portfolio/riggingequipment.jpg",
-      "alt": "screenshot of boss fight for Jabba Dice"
+      "alt": "Rigging Equipment",
+      "url": "https://dylancorvidae.github.io/Load-Calculator/"
     }
   ],
   "testimonials":[
