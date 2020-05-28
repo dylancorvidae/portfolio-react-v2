@@ -1,0 +1,36 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  background-color: #2B2B2B;
+  color: whitesmoke;
+  font-family: 'Roboto Condensed', sans-serif;
+  scrollbar-color: rgb(0, 110, 219) rgb(0, 0, 0);
+}
+
+::-webkit-scrollbar {
+  width: 20px;
+  background-color: rgb(0, 0, 0);
+}
+
+::-webkit-scrollbar-track {
+  background-color: rgb(0, 0, 0);
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  // background-color: rgb(255, 77, 228);
+  background-image: linear-gradient(to bottom, rgb(255, 77, 228), rgb(0, 110, 219));
+}
+
+::-webkit-scrollbar-thumb:hover {
+  border-radius: 10px;
+  // background-color: rgb(0, 110, 219); 
+}
+
