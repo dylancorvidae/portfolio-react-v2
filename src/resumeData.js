@@ -1,5 +1,5 @@
 let resumeData = {
-  "imagebaseurl":"http://localhost:3000/",
+  "imagebaseurl":"https://dylancorvidae.github.io/portfolio-react-v2/",
   "name": "Dylan Corvidae",
   "role": "Front-End Developer & Circus Performer",
   "linkedinId":"DylanCorvidae",
